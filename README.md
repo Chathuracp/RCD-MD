@@ -55,4 +55,3 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and make
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94789958225)
-
