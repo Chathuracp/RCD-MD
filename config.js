@@ -52,7 +52,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐑𝐂𝐃-𝐌𝐃-🏛️",
-  author: process.env.PACK_AUTHER || "𝐑𝐂𝐃",
+  author: process.env.PACK_AUTHER || "𝐂𝐏",
   packname: process.env.PACK_NAME || "🤍",
   botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
   ownername: process.env.OWNER_NAME || "𝐂𝐇𝐀𝐓𝐇𝐔𝐑𝐀[𝐂𝐏]",
