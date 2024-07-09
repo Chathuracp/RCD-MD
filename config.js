@@ -29,7 +29,7 @@ global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "true";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
-global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
+global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
 global.userImages = process.env.USER_IMAGES || "";
 global.waPresence = process.env.WAPRESENCE || "chathura cp";
 global.readcmds = process.env.READ_COMMAND || "true";
@@ -53,7 +53,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐑𝐂𝐃-𝐌𝐃-🏛️",
   author: process.env.PACK_AUTHER || "𝐑𝐂𝐃",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "🤍",
   botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
   ownername: process.env.OWNER_NAME || "𝐂𝐇𝐀𝐓𝐇𝐔𝐑𝐀[𝐂𝐏]",
   errorChat: process.env.ERROR_CHAT || "94704051516",
