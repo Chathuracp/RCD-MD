@@ -31,8 +31,8 @@ global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "";
-global.waPresence = process.env.WAPRESENCE || "recording";
-global.readcmds = process.env.READ_COMMAND || "false";
+global.waPresence = process.env.WAPRESENCE || "chathura cp";
+global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
@@ -55,7 +55,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "𝐑𝐂𝐃",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "𝐃𝐄𝐗𝐓𝐄𝐑,𝐕𝐈𝐏𝐄𝐑,𝐂𝐏",
+  ownername: process.env.OWNER_NAME || "𝐂𝐇𝐀𝐓𝐇𝐔𝐑𝐀[𝐂𝐏]",
   errorChat: process.env.ERROR_CHAT || "94704051516",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
