@@ -20,9 +20,9 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+🌟 𝗥𝗖𝗗 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
 
-<a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
+<a href="https://rcd-md-qr-link.onrender.com/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
 **`𝗥𝗖𝗗 𝗠𝗗 𝗕𝗢𝗧`**
 
